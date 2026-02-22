@@ -62,7 +62,7 @@ Veriyi temizlemeyi ve görselleştirmeyi öğrendik; şimdi ise o verinin içind
 
 Öğrenirken kullanabileceğiniz tavsiye edilen kaynaklar:
 * 🎥 **Ayrıntılı Kaynak Listesi:** [Kaynak Matrisi](./Mufredat(curriculum)/module-2-details.md)
-* 📖 **Dokümantasyon:** [Resmi Python Dokümanları]([https://docs.python.org/3/](https://scikit-learn.org/stable/user_guide.html))
+* 📖 **Dokümantasyon:** [Resmi Scikit-Learn Dokümanları](https://scikit-learn.org/stable/user_guide.html)
 * 📑 **Cheat Sheets:** Repo içindeki `resources/` klasörüne göz atın.
 
 
