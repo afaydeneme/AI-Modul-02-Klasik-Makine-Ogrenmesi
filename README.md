@@ -61,7 +61,7 @@ Veriyi temizlemeyi ve görselleştirmeyi öğrendik; şimdi ise o verinin içind
 ## 📚 Öğrenim Kaynakları
 
 Öğrenirken kullanabileceğiniz tavsiye edilen kaynaklar:
-* 🎥 **Ayrıntılı Kaynak Listesi:** [Kaynak Matrisi](./Mufredat(curriculum)/module-2-details.md)
+* 🎥 **Ayrıntılı Kaynak Listesi:** [Kaynak Matrisi](https://github.com/GaziFintech/AI-YapayZeka-Egitimi/blob/main/Mufredat(curriculum)/module-2-details.md)
 * 📖 **Dokümantasyon:** [Resmi Scikit-Learn Dokümanları](https://scikit-learn.org/stable/user_guide.html)
 * 📑 **Cheat Sheets:** Repo içindeki `resources/` klasörüne göz atın.
 
